@@ -367,7 +367,7 @@ details h4, details h5, details h6 {
 
 .grid-pic {
     grid-area: pic;
-    width: 150px;
+    width: 300px;
   }
 
 .price-table {
